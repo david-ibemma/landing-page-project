@@ -1,2 +1,2 @@
 # landing-page-project
-an nft marketplace landing page with Html and Css
+An NFT marketplace landing page with HTML and CSS
